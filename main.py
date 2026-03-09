@@ -35,7 +35,7 @@ html, body, [class*="css"] {
 }
 
 /* ── Hide Streamlit default chrome ── */
-#MainMenu, footer, header { visibility: hidden; }
+#MainMenu, footer { visibility: hidden; }
 .block-container { padding-top: 1rem !important; }
 
 /* ── Sidebar ── */
